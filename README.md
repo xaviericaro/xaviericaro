@@ -3,8 +3,7 @@
 
  Me chamo Ícaro Xavier, tenho 17 anos sou de Belo Horizonte - Minas Gerais. Estou cursando meu último ano de Ensino Médio, e também fazendo Técnico em Análise Desenvolvimento de Sistemas pela PROZ Educação. Sou apaixonado por tecnologia e estou sempre procurando aprender mais sobre o assunto.
 
- <p align="left">
-        />
+ <p align="left"
     </a>
     </a> 
     <a href="https://https://https://github.com/xaviericaro?tab=repositories">

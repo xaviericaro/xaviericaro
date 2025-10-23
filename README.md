@@ -70,15 +70,6 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
   />
-          
-<img
-    align="left"
-    alt="C"
-    title="C"
-    width="30"
-    style="paddign-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-    />
     
 <img 
     align="left" 

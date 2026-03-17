@@ -23,14 +23,15 @@
 <br/>
 
 <details>
-<summary><strong>More about me</strong></summary>
+<summary><strong>Estudante de Análise e Desenvolvimento de Sistemas e Engenharia de Dados
+    Experiencia em criação de landing pages, gerenciamento de banco de dados e automação com python</strong></summary>
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+Criando ferramentas que facilitam a vida dos desenvolvedores.
+Apaixonado por sistemas distribuídos, experiência do desenvolvedor e o ecossistema de código aberto.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Proz Contagem, MG
 </details>
 
 <br/>

@@ -13,9 +13,9 @@ profile:
 
 
 social:
-  email: "*"
-  linkedin: "ícaroxavier"
-  website: "*"
+  email: "icaromiguelmartinzsantos@gmail.com"
+  linkedin: "https://www.linkedin.com/in/ícaroxavier/"
+  website: ""
 
 galaxy_arms:
   - name: "Frontend"
@@ -30,12 +30,12 @@ galaxy_arms:
       - "Python"
       - "Java"
       - "Node.js"
-      - "MySQL"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
       - "GitHub Actions"
+      - "MySQL"
 
 projects:
   - repo: "galaxy-dev/nebula-ui"
@@ -70,6 +70,5 @@ languages:
     - "CSS"
     - "Python"
     - "Java"
-    - "Shell"
-    - "Makefile"
+    - "JavaScript"
   max_display: 8               # Maximum number of languages to show

@@ -1,9 +1,9 @@
 ## 🚀 Technology student, passionate about computing. 👩‍💻
 <div align="center">
   <a href="https://github.com/xaviericaro">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsadoraFerrao&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xaviericaro&show_icons=true&theme=highcontrast&include_all_commits=true&title_color=pink&count_private=true"/>
      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsadoraFerrao&layout=compact&&title_color=pink&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviericaro&layout=compact&&title_color=pink&theme=highcontrast"/>
 </div>-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Xavier-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
